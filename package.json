@@ -1,0 +1,18 @@
+{
+  "name": "niceditor-js",
+  "version": "1.0.0",
+  "description": "Ein superleichter, einfacher WYSIWYG-Editor ohne externe Abhängigkeiten.",
+  "main": "niceditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wysiwyg",
+    "editor",
+    "rich text",
+    "vanilla js",
+    "lightweight"
+  ],
+  "author": "Panradl Uwe",
+  "license": "MIT"
+}
