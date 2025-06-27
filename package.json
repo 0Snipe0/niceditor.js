@@ -4,16 +4,15 @@
   "description": "Ein superleichter, einfacher WYSIWYG-Editor ohne externe Abhängigkeiten.",
   "main": "niceditor.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Fehler: Kein Test angegeben\" && exit 1"
   },
   "keywords": [
     "wysiwyg",
     "editor",
     "rich text",
     "vanilla js",
-    "lightweight"
+    "leicht"
   ],
   "author": "Panradl Uwe",
   "license": "MIT"
 }
-fix: rename Packet.json --> package.json
